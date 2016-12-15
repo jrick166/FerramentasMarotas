@@ -1,0 +1,2 @@
+d:\users\ranniery.holanda\documents\visual studio 2013\Projects\FerramentasMarotas\bkp2zip\bin\Debug\bkp2zip.exe.config
+d:\users\ranniery.holanda\documents\visual studio 2013\Projects\FerramentasMarotas\bkp2zip\obj\Debug\bkp2zip.csprojResolveAssemblyReference.cache

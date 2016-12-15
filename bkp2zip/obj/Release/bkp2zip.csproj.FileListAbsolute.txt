@@ -1,0 +1,7 @@
+d:\users\ranniery.holanda\documents\visual studio 2013\Projects\FerramentasMarotas\bkp2zip\bin\Release\bkp2zip.exe.config
+d:\users\ranniery.holanda\documents\visual studio 2013\Projects\FerramentasMarotas\bkp2zip\bin\Release\bkp2zip.exe
+d:\users\ranniery.holanda\documents\visual studio 2013\Projects\FerramentasMarotas\bkp2zip\bin\Release\bkp2zip.pdb
+d:\users\ranniery.holanda\documents\visual studio 2013\Projects\FerramentasMarotas\bkp2zip\obj\Release\bkp2zip.csprojResolveAssemblyReference.cache
+d:\users\ranniery.holanda\documents\visual studio 2013\Projects\FerramentasMarotas\bkp2zip\obj\Release\bkp2zip.exe
+d:\users\ranniery.holanda\documents\visual studio 2013\Projects\FerramentasMarotas\bkp2zip\obj\Release\bkp2zip.pdb
+D:\Users\ranniery.holanda\Documents\Visual Studio 2013\Projects\FerramentasMarotas\bkp2zip\bin\Release\Ionic.Zip.dll
